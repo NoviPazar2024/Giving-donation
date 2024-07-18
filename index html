@@ -1,0 +1,17 @@
+html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donacije</title>
+</head>
+<body>
+    <h1>Podržite nas kripto donacijama</h1>
+    <h2>Bitcoin</h2>
+    <p>Adresa: bc1q47harmcf02lmk4qgtprnwa3dqswls24z4pkmr3</p>
+    <img src="link_to_your_bitcoin_qr_code.png" alt="Bitcoin QR kod">
+    
+    <h2>Ethereum</h2>
+    <p>Adresa: 0xA29D1885f35E536312db54E2bE26cB1758C57BCB</p>
+    <img src="link_to_your_ethereum_qr_code.png" alt="Ethereum QR kod">
+</body>
+</html>
