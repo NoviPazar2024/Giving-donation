@@ -1,5 +1,5 @@
 html lang="en">
-<head>
+<>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Donacije</title>
@@ -15,3 +15,4 @@ html lang="en">
     <img src="link_to_your_ethereum_qr_code.png" alt="Ethereum QR kod">
 </body>
 </html>
+QR btc etc
